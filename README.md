@@ -2,9 +2,9 @@
 check the certificat web site python  
 
 just use  
-main.py -H your_domain -p 443 -n your_domain
+main.py -H cuby-hebergs.com -p 443 -n cuby-hebergs.com
 
 result exemple:  
-Expire OK [Xd]  
-CN OK - cn:[your_domain]  
-verify by : [certificat signed by]  
+Expire OK [320d]  
+CN OK - cn:cuby-hebergs.com  
+verify by : COMODO CA Limited  
